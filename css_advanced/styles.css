@@ -23,9 +23,7 @@ header{
      width:80%;
     margin:auto;
 }
-/* .hero_section{
-    background-image: url('./images/Object.png');
-} */
+
 header{
     margin-top: 37px;
 }
@@ -107,7 +105,7 @@ nav {
     text-align: center;
     white-space: wrap; 
     padding-bottom: 50px;
-    /* margin-bottom: 160px ; */
+    
 }
 .pros_card > h3{
     margin-top:10px;
@@ -115,7 +113,6 @@ nav {
 .testimonial{
     display:flex;
     justify-content: center;
-    /* align-items: center; */
     gap:50px;
     background-color: var(--purple);
     margin-left:0;
